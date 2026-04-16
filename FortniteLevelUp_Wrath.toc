@@ -1,11 +1,11 @@
-## Interface: 100205
+## Interface: 30403
 ## Version: 1.0.10
 ## Title:|cff94499bFortnite|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/FNLU
+## X-Website: https://github.com/donniedice/FortniteLevelUp
 ## X-Curse-Project-ID: 594129
 ## X-Wago-ID: e56naAN9
 ## X-WoWI-ID: 26253
