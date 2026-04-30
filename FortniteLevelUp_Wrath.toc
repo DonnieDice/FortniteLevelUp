@@ -1,9 +1,11 @@
 ## Interface: 30403
-## Version: 1.0.13
-## Title:  |cff94499bFortnite|r Level Up|cff94499b!|r
+## Version: 2.0.0
+## Title:  |cffff36bbFortnite|r Level Up|cffff36bb!|r
 ## IconTexture: Interface\AddOns\FortniteLevelUp\media\icon
 ## Author: DonnieDice
-## Notes:  Play a Fortnite-inspired level-up sound!  |n|r  |cff94499b/fnlu -|r Open help  |n|r   |cff94499bBy DonnieDice|r
+## SavedVariables: FNLUSettings
+## RequiredDeps: RGX-Framework
+## Notes:  Play a Fortnite-inspired level-up sound!  |n|r  |cffff36bb/fnlu -|r Open help  |n|r   |cffff36bbBy DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/FortniteLevelUp
@@ -11,4 +13,5 @@
 ## X-Wago-ID: e56naAN9
 ## X-WoWI-ID: 26253
 
-Core.lua
+data\locales.lua
+data\core.lua
