@@ -9,11 +9,10 @@ local RGX = assert(_G.RGXFramework, "FNLU: RGX-Framework not loaded")
 
 FNLU = FNLU or {}
 
-local ADDON_VERSION = "2.0.0"
+local ADDON_VERSION = "2.0.1"
 local ADDON_NAME = "FortniteLevelUp"
-local ICON_PATH = "|Tinterface/addons/FortniteLevelUp/media/icon:16:16|t"
-local PREFIX = ICON_PATH .. " |cff94499bFNLU:|r"
-local TITLE = "[|cff94499bF|r|cffffffffortnite|r |cff94499bL|r|cffffffffevel|r |cff94499bU|r|cff94499bp|r|cff94499b!|r]"
+local PREFIX = "|Tinterface/addons/FortniteLevelUp/media/icon:16:16|t - |cffffffff[|r|cff94499bFNLU|r|cffffffff]|r "
+local TITLE = "|Tinterface/addons/FortniteLevelUp/media/icon:18:18|t [|cff94499bF|r|cffffffffortnite|r |cff94499bL|r|cffffffffevel|r |cff94499bU|r|cff94499bp|r|cff94499b!|r]"
 
 FNLU.version = ADDON_VERSION
 FNLU.addonName = ADDON_NAME
