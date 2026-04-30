@@ -1,8 +1,9 @@
 ## Interface: 20504
-## Version: 1.0.12
-## Title:|cff94499bFortnite|r Level Up!
+## Version: 1.0.13
+## Title:  |cff94499bFortnite|r Level Up|cff94499b!|r
+## IconTexture: Interface\AddOns\FortniteLevelUp\media\icon
 ## Author: DonnieDice
-## Notes: Grats!|n|r   |cff05dffaBy Uivi US-BleedingHollow|r
+## Notes:  Play a Fortnite-inspired level-up sound!  |n|r  |cff94499b/fnlu -|r Open help  |n|r   |cff94499bBy DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/FortniteLevelUp
